@@ -33,7 +33,7 @@ router.route('/').post(async (req, res) => {
     const newPost = await Post.create({ // this will create a new post in our database
       name,
       prompt,
-      photo: photoUrl.url,
+      photo: photoUrl.url, //create entery in db using the photourl generated above
     });
 
     res.status(200).json({ success: true, data: newPost });
