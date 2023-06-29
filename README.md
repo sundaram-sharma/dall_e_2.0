@@ -1,0 +1,48 @@
+
+# Project Title
+
+This is a Dall-E clone which accepts the prompt given by the user and returns an images based on that prompt. User can also share the image with the community and can also see what other people shared in the community with the prompt and their name written in the bottom. User can also download the image in 1024*1024 size.
+
+
+## Demo
+
+https://dalle2s.netlify.app/
+
+## Installation
+
+Clone the project into your local directory. For setting up the front-end, head to the client folder
+
+```bash
+  cd client
+```
+Install the necessary dependencies
+
+```bash
+  npm install
+```
+Start the deployment server
+
+```bash
+  npm run dev
+```
+
+Now we need to set the backend as well to make our project working. Before we do that, please setup the environment variables for openAI API, mongoDB as well as cloudinary in the .env file. Without that the project won't working
+
+For setting up the backend, head to the server folder
+
+```bash
+  cd server
+```
+Execute the startup script by
+
+```bash
+  npm start
+```
+    
+    
+    
+## Screenshots
+
+![App Screenshot](https://github.com/sundaram-sharma/dall_e_2.0/assets/98935619/6bb88d2b-4c00-4c48-a648-e8e11d507fc7)
+
+![App Screenshot](https://github.com/sundaram-sharma/dall_e_2.0/assets/98935619/7fa34329-36f4-4558-8e20-f67623560b50)
