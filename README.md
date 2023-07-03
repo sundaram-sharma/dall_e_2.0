@@ -46,3 +46,6 @@ Execute the startup script by
 ![App Screenshot](https://github.com/sundaram-sharma/dall_e_2.0/assets/98935619/6bb88d2b-4c00-4c48-a648-e8e11d507fc7)
 
 ![App Screenshot](https://github.com/sundaram-sharma/dall_e_2.0/assets/98935619/7fa34329-36f4-4558-8e20-f67623560b50)
+
+https://github.com/sundaram-sharma/dall_e_2.0/assets/98935619/fb22891b-775f-4ea5-8961-9fbc7b6bf914
+
